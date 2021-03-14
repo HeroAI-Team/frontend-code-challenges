@@ -22,6 +22,7 @@ const toggleSwitch = () => ({
 /*
 Given the redux logic above, please complete the functional component below.
 The desired behaviour is to toggle the switch by pressing the button while displaying the boolean value of the switch in the <p></p>
+Hint: import {useDispatch, useSelector} from 'react-redux';
 */
 
 
