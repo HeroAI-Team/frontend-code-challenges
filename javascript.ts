@@ -6,6 +6,7 @@
   add ‘AI’ to each String within the Object (eg: y: ‘hero’ => y: ‘hero AI’)
   The object should keep its structure!
   Note that the object can be arbitrarily nested!
+  You are encouraged to use typescript typings and write tests to validate your code
   Log the result to the browser console
 
   // initial object
